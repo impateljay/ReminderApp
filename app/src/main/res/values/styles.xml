@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CreateReminderTheme" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowActionBarOverlay">false</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
 </resources>
